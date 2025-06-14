@@ -9,13 +9,11 @@ A modern, feature-rich news reader application built with React Native CLI that 
 - **Article Details**: Read full article content with images and source attribution
 - **Bookmark System**: Save interesting articles for later reading with persistent storage
 - **Search Functionality**: Find articles on specific topics or keywords
-- **Share Articles**: Share news articles with friends and social media
 
 ### User Experience
 - **Pull-to-Refresh**: Update content with a simple swipe gesture
 - **Responsive Design**: Clean, modern interface optimized for mobile devices
 - **Smooth Navigation**: Intuitive bottom tab navigation between news feed and bookmarks
-- **Offline Bookmarks**: Access saved articles even without internet connection
 - **Visual Feedback**: Clear indicators for bookmark status and loading states
 
 ## 🛠 Technology Stack
