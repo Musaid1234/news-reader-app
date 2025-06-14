@@ -137,7 +137,7 @@ Building this app demonstrates proficiency in:
 
 ## 📱 APK Download
 
-You can download and install the latest APK build here: [APK Download Link]
+You can download and install the latest APK build here: https://limewire.com/d/s2gmy#y77zoPYpN4
 
 *Note: This is a debug build for testing purposes. Enable "Unknown Sources" in your Android settings to install.*
 
